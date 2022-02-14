@@ -1,0 +1,24 @@
+{
+    "steps": [
+        {
+            "name": "first",
+            "description": "a first step",
+            "value": 1
+        },
+        {
+            "name": "second",
+            "description": "a second step",
+            "value": 2
+        },
+        {
+            "name": "third",
+            "description": "a third step",
+            "value": 3
+        },
+        {
+            "name": "fourth",
+            "description": "a fourth step",
+            "value": 4
+        }
+    ]
+}

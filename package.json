@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "jest config_transform.test.js"
+  },
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
